@@ -1,6 +1,7 @@
 # covid19_stats_app
 
 A Flutter project for Covid-19 Statistic in Indonesia
+
 Tutorial from Eudeka: https://github.com/eudeka/statistic_covid19
 
 ### Persiapan
